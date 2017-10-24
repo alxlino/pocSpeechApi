@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "speech-project-1508158639076",
+  "private_key_id": "905e3322c0cf9942c36b1150406117bf44f6f19d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVx/e+BntVqbOO\nUqwFBT8FYqQ27VoLkXCQekWcPjcmFUki4yv/iwPLGOtz/fYuiLVxZxC8kaEYG+oG\nBvnSDxAs0PQOlM1mZ7BUoosod1DnM3PjDXc0MkvSqMMhnRLpe61tlSkmJepTSHps\nO/eLtDHkkkkgMrsHlSrLydCCl7xmym92wzVqclCJbORQl5ELCH6kgj1dnM36CmFm\nw6fxR4IWfIN6bIUcLidAsrxxyiwN/SaMOE8ASGcODVH9XJ7ZKwx17cC1vgLVSm8G\nS2qRea/Q12ma082vUcgFCw6XlF10iP5Yv6mo6p6NFr4l5oyBDHavFgxnK7/WAwbm\nAGkwbNY1AgMBAAECggEAA0EDDWHehIFQb5kJL8KE7rqELQJIgR/t66fpXPn+Kvj6\nU69wBJ0ziea/hd3rMMB+BapmnrVOCj1wh+0rU8mV+sOCcurMH7ZNidOuQjV1StOc\nakc3XvR7vpzdfXz0Gv1VU+o12BigSdgpwSh+XiJ4Vqhs7wSjOzfHozry6jcZQcf3\naVjE3nNWxY696irIUabH9aFyGZa/WstzlxW54FcAZb/r+R8nFyCDP5drCY6XATaP\nrelbkuazD4V24abISeBinf8schs6fMFmLOplGozTodWRcfie0hzp7Qi4ZjqUsMkB\ns0J2MjbUfGcQtAupzNPs0nelxUi0dXHYIxjY0KPyiQKBgQDsJ5XXR6apFPW41Afu\nhAGwtJmHWluGpm13bHh+C2VpAGlfhRLmsJ0Jlj5+ofmBDk31JW2JQ6nZ5wGvn3Gz\nmZrt9kXqOnvzmkqPvxssyLLm10kcDLJto509rx82EQrOdP4OaDPBXcjuCcas0H3K\n54gy44yY1noLodBGeaEPDxmN2QKBgQDnvw8tJ4kjcbGuFLGIQgWTRgGLjwV2CozI\n6vO1MiAM7GG5CEf1JSiyzoOWh85lvYCIJB9PHYddCpuaPCDh0nVwrcZa7HF3dHDk\nAljZNShLlkB7FDtBvWioqxXxAqR9L/7iRRC53K5pAjRQqB/59dQFS8dGgdMtj9Ib\nylTe/IzlvQKBgQDJzboaUbx12Ndyrp5okJ3xJyPbqrd0BVyeJS+CZrKuXA+v9MQG\nJv7LZnzZMglI47RyvR0xo4TOFL44GgTL+YOPvlhYpMmvjjYRSLosNwXKhkaPlboU\nPzDruW7ugPm/G/LO1PUFVOOTpv8ERtZ4Qgr9kb5gDUgWEJ0u3FlpyPmJYQKBgQCk\n2ojVOjaX/BzFFPtlTnHg3f/jYw4jdkXH9zr+PnYGO3EYywdFH/XfnICG6Hyuayuv\nrOKIyRyt1wnxoaxSeAAK89MSgvgEXdSgnfrOKL5NZsjfxPiSP0bgFTQ6igKw+x95\nnl/Tl2SKVoMYjUCR84mrasiLI3cyBgkUs83EAivIkQKBgCG+lbx61Br0ngNbHA7t\nkUgGPjy3bgD1sOQruhV+aCpPYLkDUsioo61cTblFlDa6hcxjI5jGbwn4uZG4CpI/\nFlN6K6ItJjMTG3GOmlomMarifq9eLq3LmrG/88wYrDZ31JuAAO3hBpwuaybEkT3U\nUTPWM83UoRKG3GxvfY7/LuGi\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-servico-speech@speech-project-1508158639076.iam.gserviceaccount.com",
+  "client_id": "101958953286809009807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-servico-speech%40speech-project-1508158639076.iam.gserviceaccount.com"
+}

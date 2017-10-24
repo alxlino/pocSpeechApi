@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "google-cloud-speech"
+gem "google-api-client"
+gem "cucumber"
+gem "pry"

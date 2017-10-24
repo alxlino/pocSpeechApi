@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+gem "appium_lib", "~> 9.6.0"
+gem "appium_console"
+gem "cucumber"
+gem "pry"
+gem 'capybara'
+gem 'selenium-webdriver'

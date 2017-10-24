@@ -1,0 +1,7 @@
+[caps]
+platformName = "Android"
+appPackage = "com.inducesmile.androidecommerceshop"
+app = "/Users/alexandrelino/SpeechTest/tests/app-debug.apk"
+deviceName = "0030524229"
+autoGrantPermissions = true
+noReset = true

@@ -1,0 +1,9 @@
+[caps]
+appiumVersion = '1.7.1'
+platformName = 'Android'
+platformVersion = '7.0'
+appPackage =  'com.android.dialer'
+appActivity = 'com.android.dialer.DialtactsActivity'
+deviceName = '0030524229'
+autoGrantPermissions = true
+noReset = true
